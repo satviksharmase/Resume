@@ -1,4 +1,0 @@
-[build]
-  command = "pip install -r requirements.txt && echo 'BUILD COMPLETE'"
-  publish = "static"
-
