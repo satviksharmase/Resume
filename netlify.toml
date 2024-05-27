@@ -1,4 +1,4 @@
 [build]
-  command = "pip install -r requirements.txt && python3 app.py"
+  command = "pip install -r requirements.txt && echo 'BUILD COMPLETE'"
   publish = "static"
 
