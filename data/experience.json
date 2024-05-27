@@ -1,0 +1,32 @@
+[
+    {
+        "position": "DevOps Engineer",
+        "company": "Optus Enterprise",
+        "date": "July 2023 – Present",
+        "location": "Melbourne, Victoria",
+        "details": [
+            "Currently a DevOps Engineer at Optus focusing on enhancing plugins, servers, web services, and devices for varied clientele.",
+            "Utilizes expertise in Python, Bottle, Salt stack, SQL, Asciidoc, Linux, Icinga, Docker, Kubernetes, JavaScript, and Grafana to deliver superior services and solutions."
+        ]
+    },
+    {
+        "position": "eForms Developer",
+        "company": "Epworth HealthCare",
+        "date": "February 2023 – July 2023",
+        "location": "Richmond, Victoria",
+        "details": [
+            "Developed and maintained high-quality web forms using Altera Boss Net, HTML, CSS, and JavaScript ensuring consistency across all forms according to design guidelines.",
+            "Conducted thorough testing of web forms to uphold high standards of functionality and user experience."
+        ]
+    },
+    {
+        "position": "Customer Service Officer",
+        "company": "Link Group",
+        "date": "June 2022 – February 2023",
+        "location": "Docklands, Victoria",
+        "details": [
+            "Specialized in managing investments, insurance, and superannuation account maintenance ensuring client needs are met effectively.",
+            "Adapted services to individual client requirements for personalized financial management and support."
+        ]
+    }
+]

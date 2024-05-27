@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Financial Time Series Analysis with Machine Learning",
+        "date": "February 2022 – October 2022",
+        "details": [
+            "Wrote a research paper focusing on different algorithms used by companies for stock data predictions.",
+            "Analyzed predictions for 1-year, 3-year, and 5-year intervals using machine learning and deep learning algorithms such as ARIMA, AR, SARIMAX, LSTM, GRU, ANN, and CNN."
+        ]
+    }
+]
