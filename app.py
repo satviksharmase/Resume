@@ -100,7 +100,7 @@ def skills():
     skills_info = [
         'Programming Languages: C, C++, C#, Python, Java, SQL, Perl',
         'Web Development: HTML, CSS, JavaScript, NodeJS, React, Angular, PHP, Vue.js, Laravel, Kubernetes, Docker, Bottle',
-        'DevOps: AWS, Microsoft Azure, IBM Cloud, Icinga, Grafana, RabbitMQ',
+        'DevOps: AWS, Microsoft Azure, IBM Cloud, Icinga, Grafana, Ansible, RabbitMQ',
         'Embedded Systems: Arduino Uno, Raspberry Pi, Zumo Robot, Particle Argon',
         'Design Tools: Adobe Photoshop, Adobe After Effects, Adobe Premiere Pro, Adobe XD, Corel Draw, AutoCAD',
         'Software Knowledge: Microsoft Office Suite, Robotic Operating System, Linux, AWS, Salt Stack, Networks, AsBuilts'
