@@ -1,4 +1,5 @@
-from bottle import Bottle, run, template, static_file
+from bottle import Bottle, run, template, static_file, route
+import os
 import json
 
 app = Bottle()
@@ -50,4 +51,4 @@ def skills():
 def server_static(filename):
     return static_file(filename, root='./static')
 
-run(app, host='0.0.0.0', port=8080, debug=False)
+run(app, host='0.0.0.0', port=int(os.environ.get("PORT", 5000)))

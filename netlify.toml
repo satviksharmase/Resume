@@ -1,8 +1,0 @@
-[build]
-  publish = "public"  # Directory where your static files (if any) are placed
-  command = "python app.py"  # Command to run your Bottle app
-
-[[redirects]]
-  from = "/*"
-  to = "/"
-  status = 200
