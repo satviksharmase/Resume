@@ -9,8 +9,9 @@ def get_common_vars():
         'name': "Satvik Sharma",
         'phone': "+61439626419",
         'email': "satvik0207@gmail.com",
-        'address': "18 Japonica Way, Point Cook 3030, Victoria",
-        'linkedin': "https://www.linkedin.com/in/satvik-sharma-80487319b/"
+        'address': "Melbourne, Victoria",
+        'linkedin': "https://www.linkedin.com/in/satvik-sharma-80487319b/",
+        'github': "https://github.com/satviksharmase"
     }
 
 def render_template(template_name, **kwargs):
@@ -52,3 +53,5 @@ def server_static(filename):
     return static_file(filename, root='./static')
 
 run(app, host='0.0.0.0', port=int(os.environ.get("PORT", 5000)))
+# if __name__ == '__main__':
+#     run(app, host='localhost', port=8080)
