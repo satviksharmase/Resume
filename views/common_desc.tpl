@@ -4,4 +4,5 @@
         <p>Phone: {{phone}} | Email: <a href="mailto:{{email}}">{{email}}</a> | Address: {{address}}</p>
         <p>LinkedIn: <a href="{{linkedin}}" target="_blank">{{linkedin}}</a></p>
         <p>GitHub: <a href="{{github}}" target="_blank">{{github}}</a></p>
+        <p>Itch.Io: <a href="{{itchio}}" target="_blank">{{itchio}}</a></p>
     </header>

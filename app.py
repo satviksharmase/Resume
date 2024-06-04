@@ -11,7 +11,8 @@ def get_common_vars():
         'email': "satvik0207@gmail.com",
         'address': "Melbourne, Victoria",
         'linkedin': "https://www.linkedin.com/in/satvik-sharma-80487319b/",
-        'github': "https://github.com/satviksharmase"
+        'github': "https://github.com/satviksharmase",
+        'itchio': "https://satviksharmase.itch.io"
     }
 
 def render_template(template_name, **kwargs):
